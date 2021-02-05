@@ -147,7 +147,7 @@ export default class App extends Component {
       <br/>
       </div>
       <div class="footer" style={{color:"white"}}>
-        <div class="footertext" style={{textAlign:"initial",justifyContent:"space-between",display:"flex"}} ><a href="https://github.com/ozanarmagan" class="bottom" style={{textDecoration:"none",color:"white",paddingLeft:"10px"}}><FaGithub size="25px" style={{marginBottom:"10px"}}/><span class="footertext" style={{fontSize:"24px"}}> OzanArmagan</span></a> <a href="#" class="footertext" style={{textDecoration:"none",color:"white",paddingRight:"10px"}}><span class="footertext" style={{fontSize:"22px"}}><span style={{marginBottom:"10px"}}>Created with</span> <span style={{color:"#4dd2d6"}}><FaReact class="footertext" size="25px" style={{marginBottom:"10px"}}/><span class="footertext" style={{fontSize:"22px"}}>React</span></span></span></a></div>
+        <div class="footertext" style={{textAlign:"initial",justifyContent:"space-between",display:"flex"}} ></div>
       </div>
     </div>
   );
