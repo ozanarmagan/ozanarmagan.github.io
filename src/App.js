@@ -84,7 +84,7 @@ export default class App extends Component {
   return (
     <div className="App">
       <div class="box">
-         <span style={{fontWeight:"900"}}>What if you have bought Bitcoin in?</span>
+         <span style={{fontWeight:"900"}}>What if you had bought Bitcoin in X?</span>
          <span style={{fontSize:"20px"}}>Are you ready to face your biggest regret?</span>
          <br/>
          <div>Currently 1 <FaBitcoin color="yellow" style={{marginBottom:"5px"}} size="27px"/> is {this.state.today.toFixed(2)}<FiDollarSign class="dollar" style={{marginBottom:"7px"}}/></div>
